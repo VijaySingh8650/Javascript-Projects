@@ -1,1 +1,1 @@
-(https://calculator-by-javascript.netlify.app/)[calculator URL]
+(https://calculator-by-javascript.netlify.app/)
